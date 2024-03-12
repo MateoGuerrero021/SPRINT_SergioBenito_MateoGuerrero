@@ -1,0 +1,125 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Video RTX 1050",
+      "imagen": "img/tarjeta1.jpeg",
+      "precio": 328
+    },
+    {
+      "id": "2",
+      "nombre": "Tarjeta RX 2020",
+      "imagen": "img/tarjeta2.jpeg",
+      "precio": 714
+    },
+    {
+      "id": "3",
+      "nombre": "Tarjeta RTX 3050",
+      "imagen": "img/tarjeta3.jpeg",
+      "precio": 700
+    },
+    {
+      "id": "4",
+      "nombre": "Tarjeta RTX 4070",
+      "imagen": "img/tarjeta4.jpg",
+      "precio": 840
+    },
+    {
+      "id": "5",
+      "nombre": "Grafica GTX 1650",
+      "imagen": "img/tarjeta5.jpg",
+      "precio": 765
+    },
+    {
+      "id": "6",
+      "nombre": "Grafica GTX 2222",
+      "imagen": "img/tarjeta6.jpg",
+      "precio": 245
+    },
+    {
+      "id": "7",
+      "nombre": "Tarjeta Radeon RX 570",
+      "imagen": "img/tarjeta7.jpeg",
+      "precio": 450
+    },
+    {
+      "id": "8",
+      "nombre": "NVIDIA GeForce GTX 1660",
+      "imagen": "img/tarjeta8.jpeg",
+      "precio": 580
+    },
+    {
+      "id": "9",
+      "nombre": "AMD Radeon RX 6800 XT",
+      "imagen": "img/tarjeta9.png",
+      "precio": 1200
+    },
+    {
+      "id": "10",
+      "nombre": "NVIDIA GeForce RTX 3080",
+      "imagen": "img/tarjeta10.webp",
+      "precio": 1500
+    },
+    {
+      "id": "11",
+      "nombre": "Grafica GTX 1050 Ti",
+      "imagen": "img/tarjeta11.png",
+      "precio": 250
+    },
+    {
+      "id": "12",
+      "nombre": "Tarjeta RX 5600 XT",
+      "imagen": "img/tarjeta12.jpeg",
+      "precio": 620
+    },
+    {
+      "id": "13",
+      "nombre": "NVIDIA Quadro P5000",
+      "imagen": "img/tarjeta13.jpg",
+      "precio": 1200
+    },
+    {
+      "id": "14",
+      "nombre": "Grafica GTX 1660 Super",
+      "imagen": "img/tarjeta14.jpeg",
+      "precio": 530
+    },
+    {
+      "id": "15",
+      "nombre": "AMD Radeon RX 5500 XT",
+      "imagen": "img/tarjeta15.jpg",
+      "precio": 380
+    },
+    {
+      "id": "16",
+      "nombre": "NVIDIA GeForce GTX 1050",
+      "imagen": "img/tarjeta16.jpg",
+      "precio": 200
+    },
+    {
+      "id": "17",
+      "nombre": "Tarjeta RTX 2080 Ti",
+      "imagen": "img/tarjeta17.jpg",
+      "precio": 1800
+    },
+    {
+      "id": "18",
+      "nombre": "Grafica GTX 1080 Ti",
+      "imagen": "img/tarjeta18.png",
+      "precio": 1000
+    },
+    {
+      "id": "19",
+      "nombre": "AMD Radeon RX 5700 XT",
+      "imagen": "img/tarjeta19.jpeg",
+      "precio": 850
+    },
+    {
+      "id": "20",
+      "nombre": "NVIDIA GeForce GTX 1070",
+      "imagen": "img/tarjeta20.png",
+      "precio": 400
+    }
+  ],
+  "carrito": {}
+}
